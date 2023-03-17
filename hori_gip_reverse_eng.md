@@ -1,3 +1,15 @@
+# More info on Game Input Protocol (GIP)
+
+[https://github.com/quantus/xbox-one-controller-protocol](https://github.com/quantus/xbox-one-controller-protocol)
+
+[https://github.com/medusalix/xone/blob/master/bus/protocol.c](https://github.com/medusalix/xone/blob/master/bus/protocol.c)
+
+[https://github.com/kylelemons/xbox](https://github.com/kylelemons/xbox)
+
+[https://github.com/torvalds/linux/blob/master/drivers/input/joystick/xpad.c](https://github.com/torvalds/linux/blob/master/drivers/input/joystick/xpad.c)
+
+[https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/input/overviews/input-overview](https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/input/overviews/input-overview)
+
 # Revese Engineering Hori's Game Input Protocol (GIP) commands
 
 The following are observations using the Hori Device Manager with the
