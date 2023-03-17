@@ -18,3 +18,7 @@ Just download `hori.py` and copy it wherever you want.
 
 You need Python and PyUSB installed. Just execute `hori.py` without arguments
 and it will print its usage.
+
+## Questions, Comments, Feedback,...
+
+Please use the [Discussions](https://github.com/mbenkmann/hori_device_manager/discussions) area.
